@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My GitHub Metrics](./github-metrics.svg)
+## Hello, World!
+I'm Ijul, currently working as a Full-Time Learner XD and there is my workspace!
+- 👀 Currently interest and learning about datsci
+- 💬 Open to discuss and collaborate
+- 📸 Likes to make content etc.
+- 📨 Lets connect! @naiidzull_ on insta
+<!--![My GitHub Metrics](./github-metrics.svg)-->
