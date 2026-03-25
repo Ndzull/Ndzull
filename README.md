@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ## Hello, World!
 I'm Ijul, currently working as a Full-Time Learner XD and there is my workspace!
 - 👀 Currently interest and learning about datsci
+- 👾 Had a opportunity to learn robot program w/@IRIS ITS
 - 💬 Open to discuss and collaborate
 - 📸 Likes to make content etc.
-- 📨 Lets connect! @naiidzull_ on insta
+- 📨 Lets connect! @naiidzull_ on insta or Naila Dzulfa at Linkedin :D
 <!--![My GitHub Metrics](./github-metrics.svg)-->
